@@ -1,0 +1,3 @@
+¿En que año comenzo la segunda guerra mundial?;1939|1944|1932|1941;1939;RECORDAR;MULTIPLE_CHOICE;30
+¿25 * 2 = 50?;Verdadero|Falso;Verdadero;RECORDAR;TRUE_FALSE;10
+¿Es Java un lenguaje orientado a objetos?;Verdadero|Falso;Verdadero;ENTENDER;TRUE_FALSE;20

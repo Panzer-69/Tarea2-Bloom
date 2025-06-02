@@ -1,0 +1,10 @@
+Main.class
+backend\BloomLevel.class
+frontend\QuizPanel.class
+frontend\MainWindow.class
+backend\QuizManager.class
+backend\Item.class
+backend\ItemType.class
+frontend\SummaryPanel.class
+backend\FileLoader.class
+frontend\ReviewPanel.class
